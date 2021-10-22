@@ -2,9 +2,9 @@
 
 Encoder + decoder + attenation
 
-![GitHub Logo](Arabic and English image caption/imagecaption.jpeg)
-![GitHub Logo](Arabic and English image caption/zoo.jpg)
-![GitHub Logo](Arabic and English image caption/تتجمع الفتاة عند السياج بينما يتجمع الآخرون.png)
+![GitHub Logo](Arabic_and_English_image_caption/imagecaption.jpeg)
+![GitHub Logo](Arabic_and_English_image_caption/zoo.jpg)
+![GitHub Logo](Arabic_and_English_image_caption/تتجمع الفتاة عند السياج بينما يتجمع الآخرون.png)
 
 
 
