@@ -21,8 +21,6 @@ ref:-
 
 [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
 
-[SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
-
 [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
 
 [OS2D: One-Stage One-Shot Object Detection by Matching Anchor Features](https://arxiv.org/pdf/2003.06800)
